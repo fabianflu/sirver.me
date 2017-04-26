@@ -1,5 +1,5 @@
 ## sirver.me
 
-Hello! Hallo! 
+Hello!
 
 Wilkommen auf sirver.me
